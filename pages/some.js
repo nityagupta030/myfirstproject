@@ -2,7 +2,8 @@ import React from "react"
 
 const Some = () => {
     return <h1>
-        Hello my name is sweetie
+        whatever it is...it's coooool!!
+        "YOU DONT KNOW WHAT YOU DONT KNOW!"
     </h1>
 }
 
